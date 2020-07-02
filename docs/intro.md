@@ -11,4 +11,6 @@
 ## Øvelser
 
 
-
+<script>
+$( "h1:first" ).css( "display", "none" );
+</script>
