@@ -4,7 +4,7 @@ Underviser: Claus Bove, clbo@kea.dk
 
 | Uge | Dato | Emne | 
 | --- | --- |
-| 35  	| 27/8  | [Introduktion til Programering 2](intro.md) | 
+| 35  	| 27/8  | [Introduktion til Programering 2](w35_intro.md) | 
 |     	| 28/8 	| OOP recap: Encapsulation, Abstraction, Inheritance & Polymorphism | 
 | 36  	| 3/9	| Recap: ADT: Lists, Sets, Interface, Generics |
 |     	| 4/9 	| Recap: Design patterns MVC |
