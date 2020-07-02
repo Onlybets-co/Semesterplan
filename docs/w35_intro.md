@@ -14,11 +14,9 @@
 
 
 <script> 
-
     $().ready(function() {
-       $("h1:first").html("Text added by jQuery code.");
+       $("h1:first").css("display", "none")
     });
-
 </script>
 
 
