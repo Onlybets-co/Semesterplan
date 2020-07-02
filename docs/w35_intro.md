@@ -19,4 +19,6 @@
 </script>
 
 
-
+<script>
+document.getElementById("h1").innerHTML = "Text added by JavaScript code";
+</script>
