@@ -12,14 +12,11 @@
 
 ## Øvelser
 
-<div id="msg"></div>
-
 
 <script> 
 
     $().ready(function() {
-       $("h1").html("Text added by jQuery code.");
-       $("#msg").html("Text added by jQuery code.");
+       $("h1:first").html("Text added by jQuery code.");
     });
 
 </script>
