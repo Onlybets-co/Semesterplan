@@ -13,4 +13,5 @@
 
 <script>
 $( "h1:first" ).css( "display", "none" );
+alert("Hej")
 </script>
