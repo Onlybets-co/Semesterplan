@@ -77,11 +77,8 @@ var dates = [
 
 ]
 var table = document.getElementsByTagName("table");  
-console.log(table);
 var tbody = document.getElementsByTagName("tbody")
-console.log(tbody)
 var rows = document.getElementsByTagName("tr");  
-console.log(rows)
 for(i = 1; i < rows.length; i++){  
   var tds = rows[i].getElementsByTagName("td"); 
   tds[0].innerHTML= dates[i-1].week;
