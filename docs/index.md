@@ -45,6 +45,7 @@ var dates = [{week : 5, date : '5/2 - 2016'}, {week : 6, date : '12/2 - 2016'}, 
 var table = document.getElementsByTagName("table");  
 console.log(table);
 var rows = table.getElementsByTagName("tr");  
+console.log(rows)
 for(i = 1; i < rows.length; i++){  
   var tds = rows[i].getElementsByTagName("td"); 
   tds[0].innerHTML= dates[i-1].week;
