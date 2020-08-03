@@ -41,13 +41,41 @@ Underviser: Claus Bove, clbo@kea.dk
 
 <script>  
 
-/*
 var dates = [
-	{week : 6, date : '12/2 - 2016'}, 
-	{week : 7, date : '<b>15/2 - 2016</b>'}, 
-	{week : 7, date : '<b>18/2 - 2016</b>'}, 
-	{week : 8, date : '26/2 - 2016'}, 
-	{week : 9, date : '4/3 - 2016'}, {week : 10, date : '11/3 - 2016'}, {week : 11, date : '18/3 - 2016'}, {week : 12, date : '25/3 - 2016'}, {week : 13, date : '1/4 - 2016'}, {week : 14, date : '8/4 - 2016'}, {week : 15, date : '15/4 - 2016'}, {week : 16, date : '22/4 - 2016'}, {week : 17, date : '29/4 - 2016'}, {week : 18, date : '6/5 - 2016'}, {week : 19, date : '13/5 - 2016'},{week : 20, date :  '20/5 - 2016'}];
+	{week:35, date: 28/8},
+	{week:36, date:	3/9 },
+	{week: ,date:	4/9 },
+	{week:37, date:	10/9 },
+	{wek:	,date:11/9 	},
+	{week:38, date:	17/9 	},
+	{week: , date:	18/9 	 },
+	{week:39, date:	24/9 	 },
+	{week:  ,date:	25/9 	 },
+	{week:40, date:	1/10 	 },
+	{week: , date:	2/10 	 },
+	{week:41, date:	8/10 	 },
+	{week: , date:	9/10 	 },
+	{week:42, date:	15/10 	 },
+	{week: , date:	16/10 	 },
+	{week:43, date:	22/10 	 },
+	{week: , date:	23/10 	 },
+	{week:44, date:	29/10 	 },
+	{week:  ,date:	30/11 	 },
+	{week:45, date:	5/11 	 },
+	{week:  ,date:	6/11 	 },
+	{week:46, date:	12/11 	 },
+	{week:  ,date:	13/11 	 },
+	{week:47, date:	19/11 	 },
+	{week: , date:	20/11 	 },
+	{week:48, date:	26/11 	 },
+	{week:  ,date:	27/11 	 },
+	{week:49, date:	3/12 	 },
+	{week:  ,date:	4/12 	 },
+	{week:50, date:	10/12 	 },
+	{week:  ,date:	11/12 	 },
+	{week:51, date:	17/12 	 }
+
+]
 var table = document.getElementsByTagName("table");  
 console.log(table);
 var tbody = document.getElementsByTagName("tbody")
@@ -58,5 +86,5 @@ for(i = 1; i < rows.length; i++){
   var tds = rows[i].getElementsByTagName("td"); 
   tds[0].innerHTML= dates[i-1].week;
   tds[1].innerHTML= dates[i-1].date;
-}*/
+}
 </script>
