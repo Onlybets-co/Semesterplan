@@ -12,6 +12,9 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC](w38_recap_mvc.md)|
 ||| [Front-end teknologier](w38_frontend.md)	|
 ||| [Front-end teknologier](w39_frontend.md)	|
+||| [Front-end teknologier](w39_frontend.md)	|
+||| [Spring Testing Frameworks (Unit Tests)]()	|
+||| [Spring Testing Frameworks (Integrations Tests)]()	|
 ||| [Spring Boot JPA I](w39_jpa_1.md)	|
 ||| [Spring Boot JPA II](w40_jpa_2.md)	| 
 ||| [Spring Boot JPA III](w40_jpa_3.md)	|
@@ -25,9 +28,6 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot Chat Server Application]()	|
 ||| [Spring Boot Chat Server Application]()	|
 |||	|
-||| 	|
-|||	|
-||| 	|
 |||	|
 ||| [Eksamensforberedelse]() 	|
 ||| [Eksamensforberedelse]() 	|
