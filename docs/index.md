@@ -9,10 +9,9 @@ Underviser: Claus Bove, clbo@kea.dk
 |     	| | [Recap: ADT: Lists, Sets, Interface, Generics ](w36_recap_adt_datastr_interf_gen.md)| 
 | | | [Recap: Spring Boot MVC (Design Patern)](w37_recap_mvc_dp.md) |  
 |	| | [Recap: Spring Boot MVC](w37_recap_mvc.md)|
-| | | |
-|| | | 
-| | | |
 | | | [Recap: Spring Boot MVC](w38_recap_mvc.md)|
+| | | |
+| | | |
 || | |
 | | | | 
 || | |
