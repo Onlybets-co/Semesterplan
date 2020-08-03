@@ -44,9 +44,9 @@ Underviser: Claus Bove, clbo@kea.dk
 var dates = [
 	{week:35, date: 28/8},
 	{week:36, date:	3/9 },
-	{week: ,date:	4/9 },
+	{week: - ,  date:	4/9 },
 	{week:37, date:	10/9 },
-	{wek:	,date:11/9 	},
+	{week: -	, date:11/9 	},
 	{week:38, date:	17/9 	},
 	{week: , date:	18/9 	 },
 	{week:39, date:	24/9 	 },
