@@ -46,7 +46,7 @@ var table = document.getElementsByTagName("table");
 console.log(table);
 var tbody = document.getElementsByTagName("tbody")
 console.log(tbody)
-var rows = tbody.getElementsByTagName("tr");  
+var rows = document.getElementsByTagName("tr");  
 console.log(rows)
 for(i = 1; i < rows.length; i++){  
   var tds = rows[i].getElementsByTagName("td"); 
