@@ -11,16 +11,16 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC](w37_recap_mvc.md)|
 ||| [Spring Testing Frameworks (Unit Tests)]()	|
 ||| [Spring Testing Frameworks (Unit Tests)]()	|
-||| [Front-end teknologier](w38_frontend.md)	|
-||| [Front-end teknologier](w39_frontend.md)	|
-||| [Front-end teknologier](w39_frontend.md)	|
+||| [Javascript](w38_frontend.md)	|
+||| [Jquery & Ajax I](w39_frontend.md)	|
+||| [Jquery & Ajax II](w39_frontend.md)	|
 ||| [Obligatorisk opgave / Midvejsevaluering]()	|
 ||| [Spring Boot JPA I](w39_jpa_1.md)	|
 ||| [Spring Boot JPA II](w40_jpa_2.md)	| 
 ||| [Spring Boot JPA III](w40_jpa_3.md)	|
-||| [Spring Boot REST]()	| 
-||| [Spring Boot REST]()	|
-||| [Spring Boot REST]()	|
+||| [Spring Boot REST I]()	| 
+||| [Spring Boot REST II]()	|
+||| [Spring Boot REST III]()	|
 ||| [Design Patterns (Strategy, Observer i fobindelse med MVC)]()	|
 ||| [Design Patters (Strategy, Observer i fobindelse med MVC)](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)	|
 ||| [Design Patterns (Strategy, Observer i fobindelse med MVC)]()	|
