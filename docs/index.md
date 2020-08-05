@@ -10,7 +10,7 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC)](w37_recap_mvc_dp.md) |  
 ||| [Recap: Spring Boot MVC](w37_recap_mvc.md)|
 ||| [Spring Testing Frameworks (Unit Tests)]()	|
-||| [Spring Testing Frameworks (Integrations Tests)]()	|
+||| [Spring Testing Frameworks (Integrations)]()	|
 ||| [Front-end teknologier](w38_frontend.md)	|
 ||| [Front-end teknologier](w39_frontend.md)	|
 ||| [Front-end teknologier](w39_frontend.md)	|
