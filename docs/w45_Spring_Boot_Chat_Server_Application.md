@@ -6,12 +6,13 @@
 
 ## Uge 45, fredag d. 6/11
 
-## Læringsmål og erhvervskompetencer
+## Læringsmål
+* Forstå og kunne forklare teorien bag websockets
+* Lave en chatserver vha. Websockets, Javascript og en Spring Boot MVC Websocket Server. 
 * SocketJS + Stomp
-* WebSockets
 
 ## Materiale
-
+* [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 ## Øvelser
 
