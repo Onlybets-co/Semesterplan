@@ -28,4 +28,4 @@ Uge 36, fredag d. 4/9
 
 ## Øvelser
 
-
+* [Lotto HashSet Øvelse](w36_lotto_ex.md)
