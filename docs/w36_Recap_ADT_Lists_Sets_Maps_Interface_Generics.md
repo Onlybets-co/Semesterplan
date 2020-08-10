@@ -9,6 +9,14 @@ Uge 36, fredag d. 4/9
 ## Læringsmål
 
 ## Materialer
+* [Java ArrayList](https://www.w3schools.com/java/java_arraylist.asp)
+* [Java LinkedList](https://www.w3schools.com/java/java_linkedlist.asp)
+* [Java HashMap](https://www.w3schools.com/java/java_hashmap.asp)
+* [Java HashSet](https://www.w3schools.com/java/java_hashset.asp)
+
+
+* [Java Collection Framework](/img/JavaCollectionFramework.png)
+
 
 ![](/img/JavaCollectionFramework.png)
 
