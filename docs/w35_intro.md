@@ -14,7 +14,7 @@
 
 ## Øvelser
 
-* [jokr øvelse](execises/jokr.md)
+* [jokr øvelse](exercises/jokr.md)
 
 
 
