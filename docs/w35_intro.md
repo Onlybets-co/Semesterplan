@@ -13,3 +13,9 @@
 
 
 ## Øvelser
+
+* [jokr øvelse](execises/jokr.md)
+
+
+
+
