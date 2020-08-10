@@ -8,11 +8,12 @@
 
 ## Læringsmål
 * Forstå og kunne forklare teorien bag websockets
-* Lave en chatserver vha. Websockets, Javascript og en Spring Boot MVC Websocket Server. 
+* Lave en chatserver vha. Websockets, Javascript og et Spring Boot MVC Websocket Server projekt. 
 * SocketJS + Stomp
 
 ## Materiale
 * [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+* [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/) (Dette bliver gennemgået i klassen ved tavlen)
 
 ## Øvelser
 
