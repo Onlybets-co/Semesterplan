@@ -14,10 +14,11 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Javascript](w38_frontend.md)	|
 ||| [Jquery & Ajax I](w39_frontend.md)	|
 ||| [Jquery & Ajax II](w39_frontend.md)	|
-||| [Obligatorisk opgave / Midvejsevaluering]()	|
 ||| [Spring Boot JPA I](w39_jpa_1.md)	|
 ||| [Spring Boot JPA II](w40_jpa_2.md)	| 
 ||| [Spring Boot JPA III](w40_jpa_3.md)	|
+||| [Obligatorisk opgave]()	|
+||| [Obligatorisk opgave fremlæggelse (midtvejsevaluering)]()	|
 ||| [Spring Boot REST I]()	| 
 ||| [Spring Boot REST II]()	|
 ||| [Spring Boot REST III]()	|
@@ -28,13 +29,12 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot Chat Server Application]()	|
 ||| [Spring Boot Chat Server Application]()	|
 |||	|
-|||	|
-||| [Eksamensforberedelse]() 	|
-||| [Eksamensforberedelse]() 	|
-||| [Eksamensforberedelse]() 	|
-||| [Eksamensforberedelse]() 	|
-||| [Eksamensforberedelse]() 	|
-||| [Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
+||| [Recap & Eksamensforberedelse]() 	|
 
 
 
