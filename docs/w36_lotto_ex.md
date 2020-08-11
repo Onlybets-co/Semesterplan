@@ -13,7 +13,8 @@ Når i har lavet en øvelse færdig, skal i pushe det til til et gruppemedlems g
 Den nye gruppe der skal arbejde videre med den kodebase starter så med at clone det repository de skal arbejde med. 
 
 # Øvelse
-Lav et "Lotto spil" i Java. I øvelsen skal i bruge datastrukturen HashSet.
+Lav et "Lotto spil" i Java.   
+I denne øvelse må i kun bruge datastrukturen **HashSet**.
 
 1. man vælger frit 7 tal (fra 1 - 36) i konsollen. 
 2. programmet genererer 7 vindertal. 
