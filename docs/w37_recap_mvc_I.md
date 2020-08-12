@@ -10,7 +10,7 @@ Uge 37, torsdag d. 10/9
 * At kunne håndterer brugere og login session i Spring Boot projekter.
 
 ## Materialer
-* [11. Spring Initializer](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/17781520#overview)
+* [Using the Spring Initializer](w37_hello_spring.md)
 * [20. Introduction to Spring MVC](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/17814928#overview)
 * []()
 ## Øvelser
