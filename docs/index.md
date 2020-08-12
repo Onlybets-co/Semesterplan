@@ -9,8 +9,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: ADT: Lists, Sets, Interface, Generics ](w36_Recap_ADT_Lists_Sets_Maps_Interface_Generics.md)| 
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_I.md) |  
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_II.md)|
-||| [Spring Testing Frameworks (Unit Tests)]()	|
-||| [Spring Testing Frameworks (Unit Tests)]()	|
+||| [Spring Testing Frameworks (Unit Tests)](docs/w38_unittest_I.md)	|
+||| [Spring Testing Frameworks (Unit Tests)](docs/w38_unittest_I.md)	|
 ||| [Javascript](w38_frontend.md)	|
 ||| [Jquery & Ajax I](w39_frontend.md)	|
 ||| [Jquery & Ajax II](w39_frontend.md)	|
