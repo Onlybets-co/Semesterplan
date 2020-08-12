@@ -7,8 +7,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Introduktion til Programering 2](w35_intro.md) | 
 ||| [OOP recap: Encapsulation, Abstraction, Inheritance & Polymorphism](w36_recap_oop.md)|
 ||| [Recap: ADT: Lists, Sets, Interface, Generics ](w36_Recap_ADT_Lists_Sets_Maps_Interface_Generics.md)| 
-||| [Recap: Spring Boot MVC](w37_recap_mvc.md) |  
-||| [Recap: Spring Boot MVC](w37b_recap_mvc.md)|
+||| [Recap: Spring Boot MVC](w37_recap_mvc_I.md) |  
+||| [Recap: Spring Boot MVC](w37_recap_mvc_II.md)|
 ||| [Spring Testing Frameworks (Unit Tests)]()	|
 ||| [Spring Testing Frameworks (Unit Tests)]()	|
 ||| [Javascript](w38_frontend.md)	|
