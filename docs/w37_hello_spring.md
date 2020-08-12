@@ -1,4 +1,8 @@
-# #1 Hello Spring
+<!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="script.js"></script>
+
+# Hello Spring
 ## Tutorial: Build a spring boot application using intellij idea
 
 ### Create your new project with intellij
