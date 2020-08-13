@@ -5,10 +5,14 @@
 # Spring MVC recap I
 > Uge 37, torsdag d. 10/9
 
-
+Formålet med denne uges lektioner er at få jer alle til at kunne huske og bruge hvad i lærte sidste semester i forhold til Spring MVC.  
+Så det er repetition af sidste semesters Spring Boot undervisning.   
+Vi vil arbejde med et simpelt bruger-håndterings-website, og der vil muligvis komme lidt nye elementer på omkring http sessions, men som udgangspunkt er det repetition af sidste semesters stof. 
 
 ## Læringsmål
-* At kunne håndterer brugere og login session i Spring Boot projekter.
+* Kunne oprette et Spring Boot MVC projekt. 
+* Kunne forklare MVC arkitekturen i relation til et Spring Boot MVC projekt.
+* Kunne håndterer brugere og login session i et Spring Boot MVC projekt.
 
 ## Materialer
 * [Using the Spring Initializer](w37_hello_spring.md)
