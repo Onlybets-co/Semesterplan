@@ -3,8 +3,9 @@
 <script src="script.js"></script>
 
 # Spring MVC recap I
+> Uge 37, torsdag d. 10/9
 
-Uge 37, torsdag d. 10/9
+
 
 ## Læringsmål
 * At kunne håndterer brugere og login session i Spring Boot projekter.
