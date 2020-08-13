@@ -3,7 +3,7 @@
 <script src="script.js"></script>
 
 # Spring MVC recap I
-> Uge 37, torsdag d. 10/9
+_Uge 37, torsdag d. 10/9_
 
 Formålet med denne uges lektioner er at få jer alle til at kunne huske og bruge hvad i lærte sidste semester i forhold til Spring MVC.  
 Så det er repetition af sidste semesters Spring Boot undervisning.   
