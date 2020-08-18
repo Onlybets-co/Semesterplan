@@ -11,6 +11,9 @@ Måske kan du allerede se at der er noget galt i det resultat du får tilbage?
 ## Øvelsen
 Lav unittests for klassen, og i disse skal du definerer hvad denne klasse skal kunne. Altså hvis du kalder **numberOfVowels("Hej med dig")** skal du forvente at få nummeret **3** tilbage som returværdi fra denne metode. 
 
+Som det er nu er jeg kommet til at lave en del logiske fejl i mit kodeeksempel. Jeres opgave er at finde og rette disse fejl. Når jeres unittests alle er ok, har i løst opgaven.
+
+
 ````
 public class Alphabet {
 
