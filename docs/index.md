@@ -22,13 +22,13 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot REST I]()	| 
 ||| [Spring Boot REST II]()	|
 ||| [Spring Boot REST III]()	|
-||| [Design Patterns (Strategy, Observer i fobindelse med MVC)]()	|
+||| [Spring Boot REST IV]()	|
+||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
+||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
 ||| [Design Patters (Decorator i forbindelse med @Anotations i Spring Boot)](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)	|
-||| [Design Patterns (Strategy, Observer i fobindelse med MVC)]()	|
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
 ||| [Spring Boot Chat Server Application]()	|
 ||| [Spring Boot Chat Server Application]()	|
-|||	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
