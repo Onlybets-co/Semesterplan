@@ -14,7 +14,6 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
 ||| [Javascript](w38_frontend.md)	|
 ||| [Jquery & Ajax I](w39_frontend.md)	|
-||| [Jquery & Ajax II](w39_frontend.md)	|
 ||| [Spring Boot JPA I](w39_jpa_1.md)	|
 ||| [Spring Boot JPA II](w40_jpa_2.md)	| 
 ||| [Spring Boot JPA III](w40_jpa_3.md)	|
@@ -22,8 +21,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Obligatorisk opgave fremlæggelse (midtvejsevaluering)]()	|
 ||| [Spring Boot REST I]()	| 
 ||| [Spring Boot REST II]()	|
+||| [Jquery & Ajax]()	|
 ||| [Spring Boot REST III]()	|
-||| [Spring Boot REST IV]()	|
 ||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
 ||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
 ||| [Design Patters (Decorator i forbindelse med @Anotations i Spring Boot)](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)	|
