@@ -1,6 +1,11 @@
+<!-- JS use if these pages are used as githubpages. can be deleted if used elsewhere -->
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="script.js"></script>
+
+
 # Tutorial: My First Unit Test
 
-This tutorial is identical to what I have shown you in class about unittest.
+This tutorial is identical to what I have shown you in class about unittest with JUnit.
 
 ## Create a Spring Boot Project 
 First thing to do is to create a Spring Boot Project using the spring initializer.   
@@ -51,7 +56,7 @@ public class Calculator {
 ## Create a Test Class
 
 Right click in your Calculator class, choose **Generate -> Test**.   
-You will know see a gui like this:
+You will now see a gui like this:
 
 ![](img/unittest_2.png)
 
