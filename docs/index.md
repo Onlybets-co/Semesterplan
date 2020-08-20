@@ -11,6 +11,7 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_II.md)|
 ||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
 ||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
+||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
 ||| [Javascript](w38_frontend.md)	|
 ||| [Jquery & Ajax I](w39_frontend.md)	|
 ||| [Jquery & Ajax II](w39_frontend.md)	|
@@ -27,7 +28,6 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
 ||| [Design Patters (Decorator i forbindelse med @Anotations i Spring Boot)](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)	|
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
-||| [Spring Boot Chat Server Application]()	|
 ||| [Spring Boot Chat Server Application]()	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
