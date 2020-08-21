@@ -4,9 +4,11 @@
 
 # Introduktion til programering 2
 
-## Uge 35, torsdag d. 27/8
+Uge 35, fredag d. 28/8   
 
-## Læringsmål og erhvervskompetencer
+
+
+## Læringsmål
 
 
 ## Materiale

@@ -14,6 +14,7 @@
 
 ## Materiale
 * [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
+* [Mockito Tutorial (Tavle eksempel)](w38_mockito_tutorial.md)
 * [173. Using Mockito Mocks](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497700#overview) 
 
 
