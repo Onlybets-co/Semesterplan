@@ -16,7 +16,7 @@
 
 
 * [169. Introduction to Testing Spring Framework Applications](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497672#overview)
-* [172. Creating a JUnit Test](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497686#overview
+* [172. Creating a JUnit Test](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497686#overview)
 
  
 ## Øvelser
