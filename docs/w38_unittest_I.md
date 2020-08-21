@@ -18,7 +18,7 @@
 * [Kodeeksempel fra undervisningen]() 
 
 ## Øvelser
-### Calculator færdiggørelse
+### Calculator 
 Gør Calculator exemplet fra tavlen færdigt ved at tilføje -, *, / og % (modulus) til koden (og det skal selvfølgelig testes.)
 
 ### String unit test exercises 
