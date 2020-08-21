@@ -167,7 +167,7 @@ Your test passed and you can be sure that your add() method is doing its job cor
 
 ## Create a mistake and test again
 
-In your Calculator.java files add method you should change the **+** to a ***** sign.   
+In your Calculator.java files add method you should change the **+** to a * sign.   
 
 Run your test again. (You can now do it by clicking the normal play sign in the top right of you IDE).
 
