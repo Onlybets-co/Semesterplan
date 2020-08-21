@@ -20,13 +20,8 @@
 
  
 ## Øvelser
-
-* String unit test exercises 
-Clone dette github repository og åben det i IntelliJ. Øvelsen er beskrivet i filerne i projektet.
-
-````
- git clone https://github.com/dat19b/unittest-string-exercises.git
-```` 
+* [String unit test exercises](w38_string_unittest_ex.md)
+* [Collections unit test exercises](w38_collections_unittest_ex.md)
 * [Alphabet UnitTest](w38_alphabet_unittest_ex.md)
 
 
