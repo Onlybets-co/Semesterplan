@@ -54,6 +54,23 @@ public class Calculator {
 }
 
 ````
+## Main class
+
+In you main class create an object of Calculator and call the add method. 
+
+````
+public class Main{
+
+    public static void main(String[] args){
+        Calculator c = new Calculator();
+	System.out.println(c.add(1, 2));
+    }
+}
+
+````
+This is (as you know) the 'normal' way of running a program. Now we will look at creating unittests for you calculator class. 
+
+
 ## Unit Test
 ### Create a Test Class
 
