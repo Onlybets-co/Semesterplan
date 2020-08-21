@@ -21,6 +21,9 @@
  
 ## Øvelser
 
+### Calculator færdiggørelse
+Gør Calculator exemplet fra tavlen ([Tutorial: My First Unit Test](w38_my_first_unittest_tutorial.md) færdigt ved at tilføje -, *, / og % (modulus) til koden (og selvfølgelig skal det testes.)
+
 ### String unit test exercises 
 Clone dette github repository og åben det i IntelliJ. Øvelsen er beskrivet i filerne i projektet.
 
