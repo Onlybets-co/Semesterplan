@@ -11,12 +11,12 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_II.md)|
 ||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
 ||| [Spring Testing Frameworks (Mockito)](w38_unittest_II.md)	|
-||| [Spring Testing Frameworks (Spring MVC)](w38_unittest_I.md)	|
-||| [Javascript](w38_frontend.md)	|
-||| [Jquery & Ajax I](w39_frontend.md)	|
-||| [Spring Boot JPA I](w39_jpa_1.md)	|
-||| [Spring Boot JPA II](w40_jpa_2.md)	| 
-||| [Spring Boot JPA III](w40_jpa_3.md)	|
+||| [Spring Testing Frameworks (Spring MVC)](w39_unittest_III.md)	|
+||| [Javascript]()	|
+||| [Jquery & Ajax I]()	|
+||| [Spring Boot JPA I]()	|
+||| [Spring Boot JPA II]()	| 
+||| [Spring Boot JPA III]()	|
 ||| [Obligatorisk opgave]()	|
 ||| [Obligatorisk opgave fremlæggelse (midtvejsevaluering)]()	|
 ||| [Spring Boot REST I]()	| 
