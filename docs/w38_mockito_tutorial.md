@@ -71,7 +71,7 @@ Note how – in both examples, we're interacting with the mock and verifying som
 
 
 
-6. @InjectMocks Annotation
+## 6. @InjectMocks Annotation
 
 Now – let's discuss how to use @InjectMocks annotation – to inject mock fields into the tested object automatically.
 
