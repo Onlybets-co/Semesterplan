@@ -16,12 +16,15 @@
 * [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 * [Mockito Tutorial (Tavle eksempel)](w38_mockito_tutorial.md)
 * [173. Using Mockito Mocks](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497700#overview) 
+
+<!--
 ### Skal redigeres inden brug
 * [Testing the web layer](https://spring.io/guides/gs/testing-web/) (SKAL REDIGERES TIL AT BRUGE MOCKITO mm.)
 * [Testing in Spring Boot](https://www.baeldung.com/spring-boot-testing)
 * [Guide to Testing Controllers in Spring Boot](https://thepracticaldeveloper.com/2020/06/04/guide-spring-boot-controller-tests/)
 * [Integrate JUnit and Mockito, Unit Testing for Controller Layer](https://medium.com/backend-habit/integrate-junit-and-mockito-unit-testing-for-controller-layer-91bb4099c2a5)
-
+https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example/
+-->
 
 * [Kodeeksempler fra undervisningen]()
 

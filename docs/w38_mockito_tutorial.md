@@ -69,3 +69,46 @@ And now we'll do the same but we'll inject the mock using the @Mock annotation:
 
 Note how – in both examples, we're interacting with the mock and verifying some of these interactions – just to make sure that the mock is behaving correctly.
 
+
+
+6. @InjectMocks Annotation
+
+Now – let's discuss how to use @InjectMocks annotation – to inject mock fields into the tested object automatically.
+
+In the following example – we use @InjectMocks to inject the mock wordMap into the MyDictionary dic:
+
+````
+	@Mock
+	Map<String, String> wordMap;
+	 
+	@InjectMocks
+	MyDictionary dic = new MyDictionary();
+	 
+	@Test
+	public void whenUseInjectMocksAnnotation_thenCorrect() {
+	    Mockito.when(wordMap.get("aWord")).thenReturn("aMeaning");
+	 
+	    assertEquals("aMeaning", dic.getMeaning("aWord"));
+	}
+````
+
+And here is the class MyDictionary:
+
+````
+	public class MyDictionary {
+	    Map<String, String> wordMap;
+	 
+	    public MyDictionary() {
+	        wordMap = new HashMap<String, String>();
+	    }
+	    public void add(final String word, final String meaning) {
+	        wordMap.put(word, meaning);
+	    }
+	    public String getMeaning(final String word) {
+	        return wordMap.get(word);
+	    }
+	}
+
+````
+
+
