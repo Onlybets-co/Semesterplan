@@ -6,13 +6,14 @@
 
 Uge 35, fredag d. 28/8   
 
+Vi starter med at gennemgå alt det praktiske, og få et overblik over hvad i skal igennem dette semester.
 
-
-## Læringsmål
 
 
 ## Materiale
-
+* [Introduktion](w35_introinfo.md)
+* [Studieordningen](https://kea.dk/images/DA/Files/Uddannelser/Studieordninger/STO-Datamatiker-2019-december.pdf)
+* []
 
 ## Øvelser
 
