@@ -8,7 +8,7 @@
 Denne øvelse har to formål. Dels at få jer i gang efter en lang sommerferie, og dels at ryste jer sammen som en klasse. 
 
 Øvelsen består i virkeligheden af 3 underøvelser. Hver øvelse skal laves i en gruppe på 3 personer og for hver ny øvelse skal i skifte gruppe. 
-Når i har lavet en øvelse færdig, skal i pushe det til til et gruppemedlems github konto, og paste linket ind i [dette excelark](https://kea-fronter.itslearning.com/ContentArea/ContentArea.aspx?LocationID=2847&LocationType=1).  
+Når i har lavet en øvelse færdig, skal i pushe det til til et gruppemedlems github konto, og paste linket ind i [dette excelark](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=774557).  
 
 Den nye gruppe der skal arbejde videre med den kode base starter så med at clone det repository de skal arbejde med. 
 
