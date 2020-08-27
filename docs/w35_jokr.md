@@ -17,7 +17,7 @@ Lav et Java program som hedder "JOKR".
 Programmet skal være et terminalbaseret program. (altså ingen Spring Boot endnu).   
 
 * Version 1: Vis en tilfældig joke 
-* Version 2: Hver gang man trykker på en tast, vises en ny tilfældig joke. 
+* Version 2: Hver gang man trykker på enter tasten, vises en ny tilfældig joke. 
 * Version 3: Hent jokes fra denne fil [jokes.txt](w35_jokes.txt), eller fra internettet (hvis i har mod på det)
 
 Når i har gjort en version færdig skal i stoppe. I skal ikke lave den efterfølgende version før i har skiftet gruppe. 
