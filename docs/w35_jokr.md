@@ -22,3 +22,6 @@ Programmet skal være et terminalbaseret program. (altså ingen Spring Boot endn
 
 Når i har gjort en version færdig skal i stoppe. I skal ikke lave den efterfølgende version før i har skiftet gruppe. 
 
+Når alle 3 versioner er færdige kigger vi på jeres løsninger og laver det sammen ved tavlen.
+
+
