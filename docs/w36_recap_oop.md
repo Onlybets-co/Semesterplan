@@ -20,9 +20,8 @@ Uge 36, torsdag d. 3/9
 * [Polymorphism ](https://www.w3schools.com/java/java_polymorphism.asp)
 * [Abstraction ](https://www.w3schools.com/java/java_abstract.asp)
 * [Interface](https://www.w3schools.com/java/java_interface.asp)
-
 * [Kodeeksempler fra undervisningen]()
 
 ## Øvelser
-
+* [ICrud Interface Exercise](w36_icrud_ex.md)
 * [Fitness Exercise(s)](w36_fitness_ex.md)

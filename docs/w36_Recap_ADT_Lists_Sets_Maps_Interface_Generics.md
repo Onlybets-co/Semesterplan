@@ -15,7 +15,9 @@ Uge 36, fredag d. 4/9
 * [Java HashMap](https://www.w3schools.com/java/java_hashmap.asp)
 * [Java HashSet](https://www.w3schools.com/java/java_hashset.asp)
 * [Set oprations venn diagram](/img/Set_operations.png)
-* [Set oprations](/img/Set_operation.png))
+* [Set oprations](/img/Set_operation.png)
+
+* [Kode fra undervisningen]()
 
 ## Øvelser
 
