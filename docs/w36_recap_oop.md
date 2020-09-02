@@ -25,4 +25,4 @@ Uge 36, torsdag d. 3/9
 
 ## Øvelser
 
-
+* `Fitness Exercise(s) <w36_fitness_ex.md>`_
