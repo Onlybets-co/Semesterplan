@@ -3,9 +3,10 @@
 <script src="script.js"></script>
 
 # OOP recap: Encapsulation, Abstraction, Inheritance & Polymorphism
-![](img/ooprecap.jpg)
 Uge 36, torsdag d. 3/9
+![](img/ooprecap.jpg)
 ## Læringsmål
+I dag vil være med forkus på repetition af grundlæggende OOP koncepter. 
 
 ## Materialer
 * [Java OOP](https://www.w3schools.com/java/java_oop.asp) 
