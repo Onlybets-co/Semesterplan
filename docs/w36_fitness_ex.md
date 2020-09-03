@@ -30,8 +30,8 @@ You should make a console program that makes use of inheritance and polymorphism
 
 You are allowed to work in groups, but each one of you have to code your own program.    
 
-When you have finished your program, you should push it to github and send a link to this repository to clbo@kea.dk.    
-(Note: It is not required of you to send me a link, but it would be nice for me to see what you did.     
+When you have finished your program, you should push it to github and submit a link to this repository on [Fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=779730).    
+(Note: It is not required of you to hand it in, but it would be nice for me to see what you did.     
 - You do also not get personal feedback on this exercises).
 
 
