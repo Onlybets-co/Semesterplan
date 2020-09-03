@@ -17,8 +17,9 @@ Uge 36, fredag d. 4/9
 * [Set oprations venn diagram](/img/Set_operations.png)
 * [Set oprations](/img/Set_operation.png)
 
-
-<img src="/img/Set_operations.png" width=50%>
+### Set operations
+![](/img/Set_operations.png)
+![](/img/Set_operation.png)
 
 
 * [Kode fra undervisningen]()
