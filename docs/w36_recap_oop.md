@@ -3,7 +3,7 @@
 <script src="script.js"></script>
 
 # OOP recap: Encapsulation, Abstraction, Inheritance & Polymorphism
-
+![](img/ooprecap.jpg)
 Uge 36, torsdag d. 3/9
 ## Læringsmål
 
