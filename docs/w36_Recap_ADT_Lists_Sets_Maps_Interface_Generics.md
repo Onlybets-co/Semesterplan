@@ -18,7 +18,7 @@ Uge 36, fredag d. 4/9
 * [Set oprations](/img/Set_operation.png)
 
 
-<a href="/img/Set_operations.png" width=50%>
+<img src="/img/Set_operations.png" width=50%>
 
 
 * [Kode fra undervisningen]()
