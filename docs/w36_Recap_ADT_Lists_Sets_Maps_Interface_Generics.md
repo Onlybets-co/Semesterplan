@@ -17,8 +17,13 @@ Uge 36, fredag d. 4/9
 * [Set oprations venn diagram](/img/Set_operations.png)
 * [Set oprations](/img/Set_operation.png)
 
+
+<a href="/img/Set_operations.png" width=50%>
+
+
 * [Kode fra undervisningen]()
 
 ## Øvelser
 
 * [Lotto HashSet Øvelse](w36_lotto_ex.md)
+* [Fitness Exercise(s)](w36_fitness_ex.md)
