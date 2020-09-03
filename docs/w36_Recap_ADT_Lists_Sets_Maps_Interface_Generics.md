@@ -17,9 +17,9 @@ Uge 36, fredag d. 4/9
 
 ### Map
 * [Java HashMap](https://www.w3schools.com/java/java_hashmap.asp)
-* [Java HashSet](https://www.w3schools.com/java/java_hashset.asp)
 
-### Set operations
+### Set 
+* [Java HashSet](https://www.w3schools.com/java/java_hashset.asp)
 ![](/img/Set_operations.png)
 ![](/img/Set_operation.png)
 
