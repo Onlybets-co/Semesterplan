@@ -7,8 +7,10 @@
 Uge 36, fredag d. 4/9   
 
 ## Læringsmål
-
-## Materialer
+Efter i dag har i fået genopfrisket hvad i allerede har lært om Collections og datastrukturer i Java.    
+I vil desuden have fået en dybere viden omkring mindst en af disse datastrukturer, nemlig **Set**.    
+   
+## Materiale 
 * [Java Collection Framework](/img/JavaCollectionFramework.png)
 
 ### Lists
