@@ -24,7 +24,7 @@ Uge 36, fredag d. 4/9
 ![](/img/Set_operation.png)
 
 
-* [Kode fra undervisningen]()
+* [Kode fra undervisningen](https://github.com/dat19b/oop-recap)
 
 ## Øvelser
 
