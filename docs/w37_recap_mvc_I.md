@@ -20,8 +20,9 @@ Vi vil arbejde med et simpelt bruger-håndterings-website, og der vil komme lidt
 ## Materialer
 * [Using the Spring Initializer](w37_hello_spring.md)
 * [Basic Spring Boot MVC tutorial](w37_my_first_website.md)
+* [Bootstrap documentation](https://getbootstrap.com/)
 * [Bootstrap CSS Framework](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497674#overview)
 * [20. Introduction to Spring MVC](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/17814928#overview)
-
+* [MVC Slutresultat screencast](https://youtu.be/3TDWqZevsY0)
 ## Øvelser
 * [Webshop øvelse](w37_webshop_ex.md)
