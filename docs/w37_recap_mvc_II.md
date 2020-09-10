@@ -10,6 +10,8 @@ Uge 37, fredag d. 11/9
 * At kunne håndterer brugere og login session i Spring Boot projekter.
 
 ## Materialer
+* [git-it-electron (Git Tutorial)](https://github.com/jlord/git-it-electron/releases)
+* [Git CheatSheet](w37_git_cheatsheet.md)
 
 ## Øvelser
 
