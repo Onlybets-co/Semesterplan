@@ -27,7 +27,7 @@ Efter i dag vil i:
 * [JUnit 5 Expected Exception – assertThrows() Example](https://howtodoinjava.com/junit5/expected-exception-example/)
 * [169. Introduction to Testing Spring Framework Applications](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497672#overview)
 * [172. Creating a JUnit Test](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497686#overview)
-* [Kodeeksempel fra undervisningen]() 
+* [Kodeeksempel fra undervisningen](https://github.com/dat19b/unittest_junit) 
 
 ## Øvelser
 ### Calculator 
