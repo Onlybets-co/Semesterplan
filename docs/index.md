@@ -10,8 +10,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_I.md) |  
 ||| [Recap: Spring Boot MVC](w37_recap_mvc_II.md)|
 ||| [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md)	|
-||| [Spring Testing Frameworks (Mockito)](w38_unittest_II.md)	|
-||| [Spring Testing Frameworks (Spring MVC)](w39_unittest_III.md)	|
+||| [Feedback, Q&A](w38_unittest_II.md)	|
+||| [Spring Testing Frameworks (Mockito & Spring MVC)](w39_unittest_III.md)	|
 ||| [Javascript]()	|
 ||| [Jquery & Ajax I]()	|
 ||| [Spring Boot JPA I]()	|
