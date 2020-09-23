@@ -60,5 +60,5 @@ I Students Administration projectet skal i "afkommenterer" de metoder der ikke e
 ### JUint & Mockito tutorials
 Se og lav eksemplerne fra disse 2 videoer.
 
-* [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8&t=15s)
+* [What is JUnit?, Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8&t=15s)
 * [Mockito JUnit Example](https://www.youtube.com/watch?v=HsQ9OwKA79s)
