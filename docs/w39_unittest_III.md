@@ -55,7 +55,9 @@ Lav en test af projectets create metode. I skal bruge samme fremgangsmåde som l
 Vi gennemgår desuden løsningen ved tavlen om ca. 30 minutter.
  
 ### Students Administration Project Unit Test
-I Students Administration projectet skal i "afkommenterer" de metoder der ikke endnu er active. Det skal gøres i StudentsController, StudentRepository og i IStudentRepository. Herefter skal i teste alle metoder. I skal til det gøre brug af JUnit og Mockito.   
+I Students Administration projektet skal i "afkommenterer" de metoder der ikke endnu er aktive.     
+Det skal gøres i StudentsController, StudentRepository og i IStudentRepository.      
+Herefter skal i unitteste alle metoder, og der hvor der er afhængigheder skal I skal gøre brug Mockito.   
 
 ### JUint & Mockito tutorials
 Se og lav eksemplerne fra disse 2 videoer.
