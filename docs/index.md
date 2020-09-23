@@ -17,7 +17,7 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot JPA I]()	|
 ||| [Spring Boot JPA II]()	| 
 ||| [Spring Boot JPA III]()	|
-||| [**Obligatorisk opgave (online) (8:45 - 15:30) **]()	|
+||| [**Obligatorisk opgave (online) (8:45 - 15:30)**]()	|
 ||| Ingen undervisning |
 ||| [Spring Boot REST I]()	| 
 ||| [Spring Boot REST II]()	|
