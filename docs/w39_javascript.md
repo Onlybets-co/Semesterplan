@@ -17,3 +17,11 @@ At kunne bruge Javascript til basale programeringsopgaver og til manipulering af
 * [JavaScript Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JavaScript)
 * [Change stylesheets dynamically](https://docs.google.com/document/d/e/2PACX-1vQoh5GMyTDX3eXPO1thdcLP-t5Stj-QGp341C-4JIq6Lxx8MBrMhVW-d_UOtImHfKXmN_FN4omGa6Ur/pub)
 * [Exercise JS basics](https://docs.google.com/document/d/e/2PACX-1vRL_YsHe704YRxUtzZ4ojlepExNz_jKWcbe07dhOsiw0QQbeV9gExvZrvn9fKLvBm4kMdIgqx0E7MVw/pub)
+
+### Hovedbrud med ren Javascript
+
+* [First Reverse](https://coderbyte.com/information/First%20Reverse)
+* [First Factorial](https://coderbyte.com/information/First%20Factorial)
+* [Longest Word](https://coderbyte.com/information/Longest%20Word)
+* [Letter Changes](https://coderbyte.com/information/Letter%20Changes)
+
