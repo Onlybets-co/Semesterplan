@@ -16,6 +16,9 @@
 * [A quick intro to Dependency Injection: what it is, and when to use it](https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/)
 * [Mockito Tutorial (Tavle eksempel)](w38_mockito_tutorial.md)
 * [173. Using Mockito Mocks](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497700#overview) 
+* [174. Assignment - Write Test for IndexController](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497708#overview)
+* [175. Assignment Review](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497716#overview)
+
 
 <!--
 ### Skal redigeres inden brug
@@ -26,7 +29,7 @@
 https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example/
 -->
 
-* [Kodeeksempler fra undervisningen]()
+* [Kodeeksempler fra undervisningen](https://github.com/dat19b/mockito_junit_starterfiles)
 
 
 ## Øvelser
@@ -34,7 +37,28 @@ https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockito-junit-example
 Inden vi mødes næste torsdag skal i have lavet alle øvelser fra i går [Spring Testing Frameworks (Unit Tests)](w38_unittest_I.md#øvelser) og øvelserne fra idag. 
 
 
-### User Project Unit Test
-Brug det projekt vi arbejdede med i sidste uge [Kode fra undervisningen]() og lav test til dette projekt. I skal lave test til både Repository, Service og Controller laget.
 
+### 1. Test Af Create metoden
+Lav en test af projectets create metode. I skal bruge samme fremgangsmåde som lige er blevet gennemgået ved tavlen.    
+
+
+### Skriv en Test til StudentsController
+* Lav en unittest til projektets controller klasse.
+* Brug Mockito Mock til StudentRepository og Model
+* Test at der returneres en korrekt streng fra metoden.
+* Test at der interagesres med jeres Mocks.
+
+ I kan se øvelsen og løsningen på øvelsen her:
+* [174. Assignment - Write Test for IndexController](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497708#overview)
+* [175. Assignment Review](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/7497716#overview)
+
+Vi gennemgår desuden løsningen ved tavlen om ca. 30 minutter.
  
+### Students Administration Project Unit Test
+I Students Administration projectet skal i "afkommenterer" de metoder der ikke endnu er active. Det skal gøres i StudentsController, StudentRepository og i IStudentRepository. Herefter skal i teste alle metoder. I skal til det gøre brug af JUnit og Mockito.   
+
+### JUint & Mockito tutorials
+Se og lav eksemplerne fra disse 2 videoer.
+
+* [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8&t=15s)
+* [Mockito JUnit Example](https://www.youtube.com/watch?v=HsQ9OwKA79s)
