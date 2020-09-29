@@ -13,8 +13,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Feedback, Q&A](w38_unittest_II.md)	|
 ||| [Spring Testing Frameworks (Mockito & Spring MVC)](w39_unittest_III.md)	|
 ||| [Javascript](w39_javascript.md)	|
-||| [Jquery & Ajax I]()	|
-||| [Spring Boot JPA I]()	|
+||| [Jquery & Ajax I](w40_ajax_jquery.md)	|
+||| [Spring Boot JPA I](w40_spring_jpa.md)	|
 ||| [Spring Boot JPA II]()	| 
 ||| [Spring Boot JPA III]()	|
 ||| [**Obligatorisk opgave (online) (8:45 - 15:30)**]()	|
