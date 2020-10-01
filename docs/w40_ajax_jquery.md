@@ -17,4 +17,9 @@ At kunne læse data fra en api ved hjælp af JQuery og Ajax og bruge det på et 
 ## Øvelser
 * [jQuery Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=jQuery)
 * [Exercise: JQuery Play](https://docs.google.com/document/d/e/2PACX-1vQNQ4uPh1HszoSApGZSr8NiVylB4jFoYEnftzfSnmbYgNGjR9WUeIRK6wgb2MWgWlmWtpteheDE8eIF/pub)
+* [Ajax Movie App](w40_ajax_movie_app.md)
+
+
 * [Youtube favorite videos site](https://docs.google.com/document/d/e/2PACX-1vQzlgdjomrXmT_Edlxdf4JVQrOSIS4Kj-TNPh05JNE7q6lRSC4WWnX1a9PgZ0pTEgZdFsTVIywnXZVY/pub)
+
+
