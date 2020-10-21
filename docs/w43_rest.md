@@ -13,6 +13,7 @@ Udvikle et RESTFul API der leverer resultatet i JSON format og som kan håndtere
 ## Materiale
 
 * [https://www.restapitutorial.com](https://www.restapitutorial.com)
+* [Postman](https://www.postman.com/downloads/)
 * [The Spring @Controller and @RestController Annotations](https://www.baeldung.com/spring-controller-vs-restcontroller)
 * [Return Custom Status Code from Rest Controller](https://www.appsdeveloperblog.com/http-status-code-rest-controller/)
 * [Kode fra undervisningen](https://github.com/dat19b/spring_rest)
