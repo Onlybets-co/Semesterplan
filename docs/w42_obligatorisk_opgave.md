@@ -10,6 +10,8 @@ Dagens obligatoriske opgave kan i finde på fronter via dette link:
 
 * [Obligatorisk opgave på fronter](https://kea-fronter.itslearning.com/LearningToolElement/ViewLearningToolElement.aspx?LearningToolElementId=798580)
 
+Opgaven er beskrevet under "assignment / opgave".
+
 I vil først kunne se denne opgave torsdag d. 15. kl 8:45
 
 

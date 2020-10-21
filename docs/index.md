@@ -15,13 +15,13 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Javascript](w39_javascript.md)	|
 ||| [Jquery & Ajax I](w40_ajax_jquery.md)	|
 ||| [Spring Boot JPA I](w40_spring_jpa.md)	|
-||| [Spring Boot JPA II]()	| 
-||| [Spring Boot JPA III]()	|
+||| [Spring Boot JPA II](w40_spring_jpa.md)	| 
+||| [Spring Boot JPA III](w40_spring_jpa.md)	|
 ||| [**Obligatorisk opgave (online) (8:45 - 15:30)**](w42_obligatorisk_opgave.md)	|
 ||| Ingen undervisning |
-||| [Spring Boot REST I]()	| 
-||| [Spring Boot REST II]()	|
-||| [Jquery & Ajax]()	|
+||| [Spring Boot REST I](w43_rest.md)	| 
+||| [Spring Boot REST II](w43_rest.md)	|
+||| [Jquery & Ajax & REST]()	|
 ||| [Spring Boot REST III]()	|
 ||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
 ||| [Design Patterns (Strategy, Observer, Composite i fobindelse med MVC)]()	|
