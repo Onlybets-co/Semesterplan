@@ -4,10 +4,13 @@
 
 # Design Patterns 
 
-Uge 44, fredag d. 30/10
+Uge 45, torsdag d. 5/11
 
 ## Læringsmål
-
+* Kunne forklare koncepterne bag MVC arkitekturen ved hjælp af kodeeksempler.
+* Kunne forklare koncepterne bag Observer pattern ved hjælp af kodeeksempler.
+* Kunne implementerer Observer pattern i MVC Strukturen. 
+* Kunne forklare koncepterne bag Repository pattern og implementerer det i MVC Strukturen.
  
 ## Materiale
 * [The Model View Controller: a Composed Pattern](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)
@@ -17,4 +20,4 @@ Uge 44, fredag d. 30/10
 
 
 ## Øvelser
-* [MVC mp3 player]()
+* [MVC music application]()

@@ -23,9 +23,9 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot REST II](w43_rest.md)	|
 |||  |
 |||  |
-||| [Design Patterns (Low coupling, MVC, Observer, Repository)](w44_design_patterns.md)	|
-||| [Design Patterns (MVC, Strategy)]()	|
-||| [Design Patterns (MVC, Composite)]()	|
+||| [Design Patterns (Low coupling, MVC, Observer, Repository)](w45_design_patterns.md)	|
+||| [Design Patterns (Low coupling, MVC, Observer, Repository)](w45_design_patterns.md)|
+||| [Design Patterns (MVC, Composite, Strategy)]()	|
 ||| [Design Patters (Decorator i forbindelse med @Anotations i Spring Boot)](http://ima.udg.edu/~sellares/EINF-ES1/MVC-Toni.pdf)	|
 ||| [Spring Boot REST, Jquery & Ajax]()	|
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
