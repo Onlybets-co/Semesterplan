@@ -34,8 +34,6 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
-||| [Recap & Eksamensforberedelse]() 	|
-||| [Recap & Eksamensforberedelse]() 	|
 
 
 
