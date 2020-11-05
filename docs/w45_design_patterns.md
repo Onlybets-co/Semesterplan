@@ -21,3 +21,4 @@ Uge 45, torsdag d. 5/11
 
 ## Øvelser
 * [MVC music application](w45_ex_music_app.md)
+* [MVC Eksamensforberedelse](w45_ex_exam_prep.md)
