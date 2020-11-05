@@ -20,4 +20,4 @@ Uge 45, torsdag d. 5/11
 
 
 ## Øvelser
-* [MVC music application]()
+* [MVC music application](w45_ex_music_app.md)
