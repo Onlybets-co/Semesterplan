@@ -17,7 +17,7 @@ Uge 45, torsdag d. 5/11
 * [Design Patterns - MVC Pattern](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm)
 * [Observer Design Pattern](https://sourcemaking.com/design_patterns/observer)
 * [Repository Pattern](http://codecleane.rs/2016/04/22/repository-pattern/)
-
+* [Kode fra idag](https://github.com/dat19b/design-pattern-mvc)
 
 ## Øvelser
 * [MVC music application](w45_ex_music_app.md)

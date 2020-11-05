@@ -9,5 +9,7 @@ Denne øvelse går ud på at lave en "simuleret" music app, og det skal være en
 
 Du skal bruge MVC arkitekturen, og du skal i dette indarbejde et repository pattern. 
 
-Applikationen skal kunne vise hvilken sang der afspilles (eller hvis du har overskud også rent faktisk afspille sangen). Du skal også kunne skifte sang gennem et user input. 
+* Applikationen skal kunne vise hvilken sang der afspilles (eller hvis du har overskud også rent faktisk afspille sangen). 
+* Du skal også kunne skifte sang gennem et user input.
+* Du skal kunne oprette nye sange i din database. 
 
