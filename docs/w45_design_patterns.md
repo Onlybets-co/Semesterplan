@@ -4,7 +4,7 @@
 
 # Design Patterns 
 
-Uge 45, torsdag d. 5/11
+Uge 45, torsdag og fredag d. 5-6/11
 
 ## Læringsmål
 * Kunne forklare koncepterne bag MVC arkitekturen ved hjælp af kodeeksempler.
@@ -22,3 +22,5 @@ Uge 45, torsdag d. 5/11
 ## Øvelser
 * [MVC music application](w45_ex_music_app.md)
 * [MVC Eksamensforberedelse](w45_ex_exam_prep.md)
+* [Twitter observer](w45_ex_twitter.md)
+* Implementer Observer pattern i Music App MVC Øvelsen fra i går
