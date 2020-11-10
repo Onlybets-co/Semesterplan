@@ -13,3 +13,14 @@ Du skal bruge MVC arkitekturen, og du skal i dette indarbejde et repository patt
 * Du skal også kunne skifte sang gennem et user input.
 * Du skal kunne oprette nye sange i din database. 
 
+## Del 2: Observer pattern
+
+I denne del 2 skal du implementerer Observer pattern i MVC Strukturen.    
+Dit repository skal være dit observarable object og dine view Observers.
+
+
+## Del 3: Strategy pattern
+
+Du skal nu implementerer Strategy pattern i dit MVC projekt.   
+* Dit repository (model) bruger nok allerede dette pattern, men du skal i så fald være bevidst om og kunne forklare hvodan det bruger det.    
+* Se dine controllers som havende en adfærd (behaviour) og dit view som et object der implementerer denne adfærd.       
