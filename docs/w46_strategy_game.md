@@ -4,7 +4,7 @@
 
 # Strategy Pattern Game Exercise 
 
-I denne øvelse skal i lave begyndelsen til et spil, hvor i skal vælge våben og transportform.
+I denne øvelse skal i lave et element til et spil, hvor i skal kunne vælge/skifte våben og transportform.
 
 Brugeren skal spørges "What weapon do you want to use? (axe, sword or club)"
 Og spørges "In what way do you want to travel (foot, horse or bird)"
