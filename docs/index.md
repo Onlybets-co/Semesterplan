@@ -27,9 +27,9 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Design Patterns (Low coupling, MVC, Observer, Repository)](w45_design_patterns.md)|
 ||| [Design Patterns (MVC, Composite, Strategy)](w46_design_patterns_strategy.md)	|
 ||| [Design Patters (Decorator)](w46_design_patterns_decorator.md)	|
-||| [Spring Boot REST, Jquery & Ajax]()	|
+||| [Spring Boot Chat Server Application](w45_Spring_Boot_Chat_Server_Application.md)	|
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
-||| [Spring Boot Chat Server Application]()	|
+||| [Spring Boot Chat Server Application](w45_Spring_Boot_Chat_Server_Application.md)	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
