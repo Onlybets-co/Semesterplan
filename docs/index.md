@@ -29,8 +29,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Design Patters (Decorator)](w46_design_patterns_decorator.md)	|
 ||| [Spring Boot Chat Server Application](w45_Spring_Boot_Chat_Server_Application.md)	|
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
-||| [Spring Boot Chat Server Application](w45_Spring_Boot_Chat_Server_Application.md)	|
-||| [Recap & Eksamensforberedelse]() 	|
+||| [Nodejs websockets & Docker](w48_websockets_node.md)	|
+||| [Nodejs websockets & Docker](w48_websockets_node.md)	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
