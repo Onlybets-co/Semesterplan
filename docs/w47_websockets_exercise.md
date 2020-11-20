@@ -20,3 +20,10 @@ I kan finde documentation om Stompjs `her <https://stomp-js.github.io/stomp-webs
 
 3. Gør de muligt for en client at joine 2 forskellige chat rooms før der konnektes.   
 
+
+Mikkels materiale link: https://www.pixeltrice.com/build-spring-boot-chat-application-from-scratch/
+https://kenzyyschatroom.herokuapp.com/   
+
+
+
+
