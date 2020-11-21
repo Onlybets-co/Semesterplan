@@ -16,6 +16,12 @@
 ## Materiale
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) (download og installer inden timerne torsdag)
 * [intelliJ and Docker](https://www.jetbrains.com/help/idea/docker.html)
-* []()
+* [Kode fra undervisningen (node/backend)]()
+* [Kode fra undervisningen (html/Javascript/frontend)]()
+
+
+### Ekstra materiale (ikke en del af pensum!)
+* [Hvis i gerne vil arbejde mere med docker er dette et godt sted at starte](https://docs.docker.com/get-started/overview/)
+
 ## Øvelser
 
