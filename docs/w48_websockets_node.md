@@ -15,6 +15,7 @@
 
 ## Materiale
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) (download og installer inden timerne torsdag)
-
+* [intelliJ and Docker](https://www.jetbrains.com/help/idea/docker.html)
+* []()
 ## Øvelser
 
