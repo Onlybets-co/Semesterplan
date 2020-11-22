@@ -16,6 +16,9 @@
 ## Materiale
 * [Docker Desktop](https://www.docker.com/products/docker-desktop) (download og installer inden timerne torsdag)
 * [intelliJ and Docker](https://www.jetbrains.com/help/idea/docker.html)
+* [ws: a Node.js WebSocket library](https://www.npmjs.com/package/ws#simple-server)
+* [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+* [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [Kode fra undervisningen (node/backend)]()
 * [Kode fra undervisningen (html/Javascript/frontend)]()
 
