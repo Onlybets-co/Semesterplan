@@ -19,12 +19,13 @@
 * [ws: a Node.js WebSocket library](https://www.npmjs.com/package/ws#simple-server)
 * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 * [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-* [Kode fra undervisningen (node/backend)]()
-* [Kode fra undervisningen (html/Javascript/frontend)]()
+* [Start kode template]()
+* [Kode fra undervisningen]()
 
 
 ### Ekstra materiale (ikke en del af pensum!)
 * [Hvis i gerne vil arbejde mere med docker er dette et godt sted at starte](https://docs.docker.com/get-started/overview/)
 
 ## Øvelser
-
+* I den kode som er brugt som eksempel indtil nu skal du:
+	* Sende chat beskeden videre til alle andre clienter end den der  har skrevet den
