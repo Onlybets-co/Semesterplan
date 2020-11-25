@@ -19,8 +19,8 @@
 * [ws: a Node.js WebSocket library](https://www.npmjs.com/package/ws#simple-server)
 * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 * [The WebSocket API (WebSockets)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-* [Start kode template]()
-* [Kode fra undervisningen]()
+* [Start kode template](https://github.com/dat19b/nodejs_start_template)
+* [Kode fra undervisningen](https://github.com/dat19b/websocket_nodejs_teaching_example)
 
 
 ### Ekstra materiale (ikke en del af pensum!)
@@ -29,3 +29,11 @@
 ## Øvelser
 * I den kode som er brugt som eksempel indtil nu skal du:
 	* Sende chat beskeden videre til alle andre clienter end den der  har skrevet den
+
+
+### Sten, saks og papir
+Lan en applikation der kan modtage et bud (sten, saks, papir) fra hver af 2 brugere. Når begge har afgivet deres bud skal det på serveren afgøres hvem vinderen er og der skal gives besked til begge brugere om resultatet. 
+
+### Kryds og bolle
+Lav et kryds og bolle spil der kan spilles af 2 brugere gennem browseren og et websocket.
+Du kan bruge [denne frontend]() som udgangspunkt for din applikation.
