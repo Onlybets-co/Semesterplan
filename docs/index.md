@@ -31,6 +31,7 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Spring Boot Chat Server Application I](w45_Spring_Boot_Chat_Server_Application.md)	|
 ||| [Nodejs websockets & Docker](w48_websockets_node.md)	|
 ||| [Nodejs websockets & Docker](w48_websockets_node.md)	|
+||| [Recap & Eksamensforberedelse](w49_recap_1.md) 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
 ||| [Recap & Eksamensforberedelse]() 	|
